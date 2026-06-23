@@ -17,3 +17,16 @@
 
 ```bash
 go run main.go
+
+## 🗺️ Roadmap & Community Support
+
+**yumi-term** is currently an **experimental prototype** (MVP). The ultimate goal is to evolve this concept into a fully-fledged, independent, GPU-accelerated terminal emulator that natively reimagines CLI workflow as a stream-oriented messenger interface.
+
+To bring this idea to life, **I need your support!** Building a complete terminal engine from scratch requires serious community effort. 
+
+### How you can help:
+- ⭐ **Leave a star** if you love the concept! It helps the project get noticed.
+- 💬 **Open an Issue** to share your thoughts, feature requests, or UI/UX ideas.
+- 🛠️ **Contribute:** If you are a Go/Rust developer interested in building next-gen TUI/GUI tools, feel free to fork, discuss, and open Pull Requests.
+
+Let's make terminal navigation comfortable and beautiful together! 🌸
